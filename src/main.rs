@@ -6,7 +6,7 @@
 
 #[get("/")]
 fn hello() -> &'static str {
-    "Hello, world!"
+    "Goodbye, render!"
 }
 
 fn main() {
